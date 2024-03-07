@@ -1,11 +1,13 @@
 <div id="user-content-toc">
   <ul align="center">
-	<h1 align="center"><b>Hi , Richard Montoya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+	<h1 align="center"><b>Hola, Soy Richard Montoya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   </ul>
 </div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=cyan&size=35&center=true&vCenter=true&width=610&height=100&lines=Me+gusta+aprender+cosas+nuevas..++;Desarrollador++Backend,;Mi+tecnología+favorita+es+Javascript,;Participo+en+proyectos+desafiantes...">
+</p>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = "30px"></picture> **Sobre mi**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 <br>
 
@@ -74,7 +76,7 @@
 </p>
 
 
-## <b> Mi Contacto</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b>Contactame...</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
   <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/Richard-Montoya/">
