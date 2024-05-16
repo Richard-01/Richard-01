@@ -17,12 +17,12 @@
 - Me gusta participar en proyectos desafiantes y salir de mi zona de confort
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30px"><b> SKILLS</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30px"><b> Languages and Tools</b>
 <br>
 
 <p align="center">
 
-- **Languajes y frameworks**
+- **Backend and Frontend**
     
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![Pyton](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
@@ -38,7 +38,7 @@
  ![Tailwind](https://img.shields.io/badge/Tailwind-05122A?style=flat&logo=tailwind%20css)
 
 
-- **Nube**
+- **Cloud Servers**
 
   ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=##FF9900)&nbsp;
   ![Lambdas](https://img.shields.io/badge/-Lambdas-05122A?style=flat&logo=awslambda)&nbsp;
@@ -46,13 +46,13 @@
   ![EC2](https://img.shields.io/badge/-EC2-05122A?style=flat&logo=amazonec2)&nbsp;
 
 
-- **Bases de datos**
+- **Database**
 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=sqlserver)&nbsp;
 
-- **Herramientas**
+- **Tools**
 
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
